@@ -4,4 +4,4 @@ Based on: [Bootstrap](https://github.com/twbs/bootstrap) and [https://github.com
 
 ## Captures
 
-![capture-1.jpg](capture-1.png "capture-1.jpg")
+![capture-1.jpg](capture-1.jpg "capture-1.jpg")
